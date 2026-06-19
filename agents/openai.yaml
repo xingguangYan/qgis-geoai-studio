@@ -1,0 +1,10 @@
+﻿interface:
+  display_name: "QGIS GeoAI Studio"
+  short_description: "Natural-language QGIS remote sensing and SCI figure generation"
+  icon_small: "./assets/logo.svg"
+  icon_large: "./assets/logo.svg"
+  brand_color: "#41B95C"
+  default_prompt: "Use $qgis-geoai-studio to analyze geospatial data with QGIS and generate publication-ready SCI figures."
+
+policy:
+  allow_implicit_invocation: true
