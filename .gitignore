@@ -1,0 +1,61 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+*.egg-info/
+dist/
+build/
+.eggs/
+
+# Environment
+.env
+.venv
+env/
+venv/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# QGIS
+*.qpj
+*.qgd
+*.qgs~
+*.qgz~
+
+# Data (keep it clean)
+*.shp
+*.shx
+*.dbf
+*.prj
+*.sbn
+*.sbx
+*.cpg
+*.xml
+*.gpkg
+*.tif
+*.tiff
+*.vrt
+*.img
+*.hdf
+*.h5
+*.nc
+*.las
+*.laz
+
+# Output
+figures/
+report/
+test_output/
+*.png
+*.jpg
+*.jpeg
+*.pdf
